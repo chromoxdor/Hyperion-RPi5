@@ -9,6 +9,7 @@
 echo '*******************************************************************************' 
 echo 'This script will install Hyperion.NG on LibreELEC'
 echo 'Created by brindosch and modified by Paulchen-Panther (thanks to horschte from kodinerds)'
+echo 'added Rasperry Pi 5 support by chromoxdor'
 echo 'hyperion-project.org - the official Hyperion source'
 echo '*******************************************************************************'
 
